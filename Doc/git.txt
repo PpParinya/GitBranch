@@ -10,4 +10,4 @@ git push -u origin main
 git add . && git commit -m "first commit" && git branch -M develop && git push -u origin develop
 
 git config --global user.email "khongsak.sutthithang@gmail.com"
-git config --global user.email "khong71" 
+git config --global user.email "khong55555"
